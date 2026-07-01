@@ -3,3 +3,8 @@ Cargo.lock
 .DS_Store
 .idea/
 *.swp
+node_modules
+dist
+build
+.idea
+.vscode
